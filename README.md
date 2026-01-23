@@ -1,4 +1,3 @@
-![👋 Hi, my name is Stefan Vassilev](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 
 ![Profile views](https://komarev.com/ghpvc/?username=stefanvas7&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -19,9 +18,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Refactoring my original code that I used for my extended essay into a cleaner, more modular codebase.**
-- 🌱 I'm currently learning: **📚 Exploring ML pipeline architecture**
-- 💬 Ask me about: **💡 Numpy, Pandas, tensorflow**
+- 💼 I'm currently working on: ** Refactoring my original code that I used for my extended essay into a cleaner, more modular codebase.**
+- 🌱 I'm currently learning: ** Exploring ML pipeline architecture**
 
  **<h3 align="left">Skills</h3>**
 
