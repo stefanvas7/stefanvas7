@@ -4,9 +4,9 @@
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
-      <h1>
-        👋 Hi, my name is Stefan Vassilev
-      </h1>
+      <h2>
+        Stefan Vassilev
+      </h2>
     </summary>
   </ul>
 </div>
@@ -18,8 +18,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: ** Refactoring my original code that I used for my extended essay into a cleaner, more modular codebase.**
-- 🌱 I'm currently learning: ** Exploring ML pipeline architecture**
+- I'm currently working on: **Refactoring my original code that I used for my extended essay into a cleaner, more modular codebase.**
+- I'm currently learning: **Exploring ML pipeline architecture**
 
  **<h3 align="left">Skills</h3>**
 
