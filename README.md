@@ -16,8 +16,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- I'm currently working on: **Refactoring my original code that I used for my extended essay into a cleaner, more modular codebase.**
-- I'm currently learning: **Exploring ML pipeline architecture**
+- I'm currently working on: **making a Boids application (as a learning projct)**
+- I'm currently learning: **Learning C / C++**
 
  **<h3 align="left">Skills</h3>**
 
