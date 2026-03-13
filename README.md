@@ -17,7 +17,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - I'm currently working on: **making a Boids application (as a learning projct)**
-- I'm currently learning: **Learning C / C++**
+- I'm currently learning: **openGL**
 
  **<h3 align="left">Skills</h3>**
 
